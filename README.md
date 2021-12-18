@@ -1,4 +1,9 @@
 # fast-api
 FastAPI
 
-https://youtu.be/0sOvCWFmrtA?t=1649
+commands:
+
+> uvicorn main:app
+
+
+https://youtu.be/0sOvCWFmrtA?t=2258
