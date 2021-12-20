@@ -5,4 +5,4 @@ commands:
 
 > uvicorn main:app --reload
 
-https://youtu.be/0sOvCWFmrtA?t=4973
+https://youtu.be/0sOvCWFmrtA?t=5527

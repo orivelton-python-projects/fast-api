@@ -10,6 +10,12 @@ class Post(BaseModel):
   content: str
   published: bool = True
   rating: Optional[int] = None
+  
+my_post = [{
+  "id": 1,
+  "title": "title",
+  "content": "content"
+}]
 
 @app.get("/")
 def root():
