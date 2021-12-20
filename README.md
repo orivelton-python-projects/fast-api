@@ -5,4 +5,4 @@ commands:
 
 > uvicorn main:app
 
-https://youtu.be/0sOvCWFmrtA?t=3685
+https://youtu.be/0sOvCWFmrtA?t=4973
